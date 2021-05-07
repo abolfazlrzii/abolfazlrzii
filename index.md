@@ -1,30 +1,30 @@
 
-### Anahita Taheri
+### Abolfazl Rezaee
 
 
 ### Personal informations
 
 ---
-+ name: Anahita
-+ last name : Taheri
-+ Date of birth : 1979/November/29
-+ I am a trader and IT engineering student
++ name: Abolfazl
++ last name : Rezaee
++ Date of birth : 1999/November/18
++ I am  IT engineering student
 + location : Tehran , I.R.Iran
 
 
 ### Skill Highlights
 
 ---
-+ trade on Tehran Stock Exchange and Forex
-+ translating
++ mobile phone repairer
+ 
 
 
 ### Education
 
 ---
-+ Diploma : Aeen Tarbiat high school
++ Diploma : Mathematical physics high school
 + Bachelor of science : IT Engineering
-_ payam Noor University of North 
+_ payam Noor University of Malard
 
 ### language
 
@@ -35,15 +35,13 @@ _ payam Noor University of North
 ### Favorites
 
 ---
-+ Trade
-+ Studing historical books
 + travel 
-+ playing volleyball
++ playing game
 
 ### working Experience
 
 ---
-+ I am working in Caltural,Turism & Handicrafts Minister.
++ I am working in Forum and mobile shop
 
 
 
