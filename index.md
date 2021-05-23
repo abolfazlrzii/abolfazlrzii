@@ -1,50 +1,43 @@
+<img src="https://avatars.githubusercontent.com/u/83268942?s=400&u=79dbdf4364b7cf6cda002af33265aef8e7fec6af&v=4"/>
 
-### Abolfazl Rezaee
+### About Me
 
+I am   Abolfazl Rezaee
+I am studying software engineering at Payame Noor University of North Tehran.
 
-### Personal informations
+### Personal Information
 
----
-+ name: Abolfazl
-+ last name : Rezaee
-+ Date of birth : 1999/November/18
-+ I am  IT engineering student
-+ location : Tehran , I.R.Iran
+- First Name: Abolfazl 
+- Last Name :Rezaee
+- Birth Date: 1999/November/18
+- Marriage Status: single
 
+### Skills
 
-### Skill Highlights
-
----
 + mobile phone repairer
- 
-
-
-### Education
-
----
-+ Diploma : Mathematical physics high school
-+ Bachelor of science : IT Engineering
-_ payam Noor University of Malard
-
-### language
-
----
-+ Persian
-+ English
++ C
++ Python
++ word press
++ ICDL 1
++ICDL 2
 
 ### Favorites
 
 ---
-+ travel 
-+ playing game
+<ol>
+  <li> travel </li>
+  <li> Sports</li>
+</ol>
+
+### Languages
+
+- Persian(Advanced)
+- English(Normal)
 
 ### working Experience
 
----
-+ I am working in Forum and mobile shop
+- I am working in Forum and mobile shop
 
-
-
-
---- 
-### [رزومه فارسی](resume-fa.md)
+### Other Accounts
+-Gmail: abolfazlrezaee50@gmail.com
+- Quera Profile: <a href="https://quera.ir/profile/abolfazlrezaee ">My Profile</a>
